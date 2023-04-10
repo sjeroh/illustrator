@@ -9,7 +9,7 @@
 ctrl + 2 잠금
 ctrl + alt + 2 잠금해제
 
-https://emojipedia.org/apple-logo/
+[😀이모티콘](https://emojipedia.org/apple-logo/)
 
 ### 🏕️ z-index
 ![image](https://user-images.githubusercontent.com/36749506/230842658-eb40eedc-3577-4b27-af8a-7bd9ed8a4afc.png)
